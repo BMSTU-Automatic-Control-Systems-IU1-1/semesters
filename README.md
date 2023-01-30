@@ -16,7 +16,7 @@
 
 [Semester 3 (Fall 2022)](https://github.com/BMSTU-Automatic-Control-Systems-IU1-1/semesters/tree/semester-3)
 
-[Semester 4 (Spring 2023)](https://github.com/BMSTU-Automatic-Control-Systems-IU1-1/semesters/tree/semester-1)
+[Semester 4 (Spring 2023)](https://github.com/BMSTU-Automatic-Control-Systems-IU1-1/semesters/tree/semester-4)
 
 ## Tutor
 #### Maslennikov Andrey Leonidovich
